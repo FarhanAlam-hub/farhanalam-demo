@@ -1,2 +1,3 @@
 # farhanalam-demo
-this is my first GIT Repo
+This is my first GIT Repository.
+Author - Farhan Alam
